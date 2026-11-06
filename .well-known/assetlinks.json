@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.executivogyn.motorista",
+      "sha256_cert_fingerprints": ["6E:2B:43:C6:00:20:EF:A4:D5:B0:8C:42:B3:F9:0E:84:83:1F:43:F3:E7:0C:F8:4D:B2:09:D8:D0:D6:84:92:88"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.executivogyn.passageiro",
+      "sha256_cert_fingerprints": ["6E:2B:43:C6:00:20:EF:A4:D5:B0:8C:42:B3:F9:0E:84:83:1F:43:F3:E7:0C:F8:4D:B2:09:D8:D0:D6:84:92:88"]
+    }
+  }
+]
